@@ -1,0 +1,5 @@
+{
+    "$schema": "_generated/config-schema.json",
+    "DISPLAY_NAME": "lmao",
+    "LOCALSTORAGE_PREFIX": "something"
+}

@@ -1,0 +1,4 @@
+{
+  "$schema": "_generated/config-schema.json",
+  "APOLLO_CLIENT_NAME": "apollo-client"
+}

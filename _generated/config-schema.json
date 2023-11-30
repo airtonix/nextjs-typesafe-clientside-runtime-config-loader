@@ -1,0 +1,35 @@
+{
+  "type": "object",
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "const": "_generated/config-schema.json"
+    },
+    "DISPLAY_NAME": {
+      "type": "string"
+    },
+    "LOGO_URL": {
+      "type": "string"
+    },
+    "LOCALSTORAGE_PREFIX": {
+      "type": "string"
+    },
+    "INTERCOM_APPNAME": {
+      "type": "string"
+    },
+    "APOLLO_CLIENT_NAME": {
+      "type": "string"
+    },
+    "APOLLO_CLIENT_OPERATIONPREFIX_SHORTNAME": {
+      "type": "string"
+    },
+    "GENERAL_HELPARTICLE_URL": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "$schema"
+  ],
+  "additionalProperties": false,
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}
